@@ -1,0 +1,26 @@
+.g-mt-section {
+    margin-top:30px;
+}
+.g-mb-section {
+    margin-bottom:50px;
+}
+#sticky-footer {
+    flex-shrink: none;
+}
+
+.navbar {
+    background-color: #007bff;
+    background: linear-gradient(to right, #0062E6, #33AEFF);
+}
+.milenial-color-bg-blue {
+    background-color: #007bff;
+    background: linear-gradient(to right, #0062E6, #33AEFF);   
+}
+
+.milenial-color-bg-green {
+    background-color: #00ff0d;
+    background: linear-gradient(to right, rgb(130, 230, 0), rgb(51, 255, 119)); 
+      
+}
+
+
